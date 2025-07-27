@@ -10,13 +10,6 @@ A web-based Inventory Management System developed to track and manage stock, pro
 - Basic login system (if included)
 - Clean, user-friendly interface
 
-## 🛠️ Technologies Used
-
-- **Backend**: Java, Spring Boot
-- **Database**: MongoDB (or MySQL if used)
-- **Frontend**: HTML, CSS, JavaScript (mention React if used)
-- **Tools**: Git, GitHub, Postman
-
 ## 🚀 How to Run
 
 1. Clone the repository:
